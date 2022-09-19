@@ -1,6 +1,6 @@
 {
-    "name": "ljstpnec18",
-    "description": "ljstpnec18",
+    "name": "ljstpmow25",
+    "description": "ljstpmow25",
     "keywords": [],
     "env": {
         "TYPE": {
@@ -9,7 +9,7 @@
         },
         "UUID": {
             "description": "UUID，可在 https://www.uuidgenerator.net/ 生成",
-            "value": "35f64ce9-89e7-4285-924f-3875d733cdb1"
+            "value": "b27226e2-2212-4b31-907d-c8d238fdc503"
         }
     },
     "website": "https://owo.misaka.rest",
